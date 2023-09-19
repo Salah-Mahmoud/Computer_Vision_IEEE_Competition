@@ -1,0 +1,1 @@
+We will obtain the data by connecting Colab with Kaggle.
